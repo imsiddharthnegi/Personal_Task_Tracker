@@ -54,28 +54,39 @@ https://personal-task-tracker-rho.vercel.app/
 
 ```
 task-tracker/
+├── build/
 ├── public/
-│   └── index.html
+├── screenshots/
+│   ├── Screenshot01.jpg
+│   ├── Screenshot02.jpg
+│   ├── Screenshot03.jpg
+│   └── Screenshot04.jpg
 ├── src/
 │   ├── components/
-│   │   ├── Login.js
-│   │   ├── Login.css
-│   │   ├── TaskForm.js
-│   │   ├── TaskForm.css
-│   │   ├── TaskItem.js
-│   │   ├── TaskItem.css
-│   │   ├── TaskList.js
-│   │   ├── TaskList.css
-│   │   ├── TaskFilter.js
-│   │   └── TaskFilter.css
 │   ├── utils/
-│   │   └── localStorage.js
 │   ├── App.js
 │   ├── App.css
 │   ├── index.js
 │   └── index.css
+├── .gitignore
+├── DEPLOYMENT_GUIDE.md
+├── FEATURES.md
+├── LICENSE
 ├── README.md
+├── package-lock.json
 └── package.json
+```
+
+## 🖼️ Screenshots
+
+| Login Screen          | Task Dashboard        |
+|-----------------------|----------------------|
+| ![Login](screenshots/Screenshot01.jpg) | ![Dashboard](screenshots/Screenshot02.jpg) |
+
+| Task Management       | Responsive on Mobile  |
+|-----------------------|----------------------|
+| ![Task Management](screenshots/Screenshot03.jpg) | ![Mobile](screenshots/Screenshot04.jpg) |
+
 ```
 
 ## 🎯 Usage
