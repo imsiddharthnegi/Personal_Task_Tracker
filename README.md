@@ -27,18 +27,7 @@ A modern, responsive task management application built with React. This applicat
 
 ## 🔗 Live Demo
 
-[Live Demo URL will be added after deployment]
-
-## 🖼️ Screenshots
-
-### Login Screen
-![Login Screen](screenshots/login.png)
-
-### Task Dashboard
-![Task Dashboard](screenshots/dashboard.png)
-
-### Task Management
-![Task Management](screenshots/task-management.png)
+https://personal-task-tracker-rho.vercel.app/
 
 ## 🚀 Setup Instructions
 
@@ -107,15 +96,6 @@ npm run build
 ```
 
 This creates a `build` folder with optimized production files ready for deployment.
-
-## 🚀 Deployment
-
-The application can be deployed to various platforms:
-
-- **Netlify**: Drag and drop the `build` folder
-- **Vercel**: Connect your GitHub repository
-- **GitHub Pages**: Use the `gh-pages` package
-- **Heroku**: Deploy using the Heroku CLI
 
 ## 🧪 Testing
 
